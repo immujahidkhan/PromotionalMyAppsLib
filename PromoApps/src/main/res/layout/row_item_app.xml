@@ -19,7 +19,7 @@
             android:layout_margin="@dimen/_2sdp"
             android:background="@color/grey"
             android:padding="@dimen/_5sdp"
-            android:text="Ad" />
+            android:text="@string/ad" />
 
         <LinearLayout
             android:layout_width="match_parent"
