@@ -1,0 +1,1 @@
+include ':PromoApps'include ':app'rootProject.name = "PromotionalLibExample"
