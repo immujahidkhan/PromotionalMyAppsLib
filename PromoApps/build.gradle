@@ -45,6 +45,7 @@ dependencies {
     implementation('com.github.bumptech.glide:okhttp3-integration:4.12.0') {
         exclude group: 'glide-parent'
     }
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
     implementation 'com.amitshekhar.android:android-networking:1.0.2'
     implementation 'com.facebook.stetho:stetho:1.6.0'
     implementation 'com.amitshekhar.android:jackson-android-networking:1.0.2'

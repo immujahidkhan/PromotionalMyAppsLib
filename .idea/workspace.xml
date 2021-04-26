@@ -10,7 +10,11 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a096753-e90e-4f7f-8fb1-c3f8e8d1d1f2" name="Default Changelist" comment="" />
+    <list default="true" id="3a096753-e90e-4f7f-8fb1-c3f8e8d1d1f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PromoApps/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/PromoApps/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PromoApps/src/main/res/layout/row_item_app.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PromoApps/src/main/res/layout/row_item_app.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +48,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="a2a429b3-1743-4f2b-b556-7bc889db1555" />
+  </component>
   <component name="ProjectId" id="1rhhVNpI0lkFlzgZ7eKtFoqAZBo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="foldersAlwaysOnTop" value="false" />
     <option name="showLibraryContents" value="true" />
@@ -183,6 +194,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="363" y="118" key="Downloadable.Font.Dialog.Size/0.0.1366.728@0.0.1366.728" timestamp="1619453893267" />
+    <state x="543" y="275" key="Github.Dialog.Accounts.Choose" timestamp="1619455494475">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="543" y="275" key="Github.Dialog.Accounts.Choose/0.0.1366.728@0.0.1366.728" timestamp="1619455494475" />
+    <state x="481" y="243" key="Github.ShareDialog" timestamp="1619455475491">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="481" y="243" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1619455475491" />
+    <state x="349" y="69" key="Github.UntrackedFilesDialog" timestamp="1619455482647">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="349" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1619455482647" />
     <state width="959" height="298" key="GridCell.Tab.0.bottom" timestamp="1619452929172">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
