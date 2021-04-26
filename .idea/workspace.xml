@@ -10,13 +10,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a096753-e90e-4f7f-8fb1-c3f8e8d1d1f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PromoApps/src/main/res/xml/network_security_config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PromoApps/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PromoApps/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/GlideApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/GlideApp.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/App.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/Constants.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/Constants.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PromoAppAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PromoAppAdapter.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PromoAppAdsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PromoAppAdsFragment.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PromoApps/src/main/res/layout/row_item_app.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PromoApps/src/main/res/layout/row_item_app.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PromoApps/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PromoApps/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +54,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
@@ -179,7 +186,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619456951041</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <created>1619458569551</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619458569551</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init">
+      <created>1619458585309</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619458585309</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -195,22 +216,23 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="474" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1619449543402" />
-    <state x="2056" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1619436805462">
-      <screen x="1366" y="0" width="1920" height="1040" />
+    <state x="491" y="187" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1619461968328">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="2056" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1619436805462" />
+    <state x="491" y="187" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1619461968328" />
     <state x="263" y="118" key="AndroidCreateResourceFileDialog" timestamp="1619457511901">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="263" y="118" key="AndroidCreateResourceFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1619457511901" />
-    <state x="527" y="149" key="AndroidCreateXmlResourceDialog" timestamp="1619451160603">
+    <state x="527" y="149" key="AndroidCreateXmlResourceDialog" timestamp="1619458570939">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="527" y="149" key="AndroidCreateXmlResourceDialog/0.0.1366.728@0.0.1366.728" timestamp="1619451160603" />
-    <state x="234" y="0" key="CommitChangelistDialog2" timestamp="1619456949503">
+    <state x="527" y="149" key="AndroidCreateXmlResourceDialog/0.0.1366.728@0.0.1366.728" timestamp="1619458570939" />
+    <state x="234" y="0" key="CommitChangelistDialog2" timestamp="1619458583072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="234" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1619456949503" />
+    <state x="234" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1619458583072" />
     <state x="363" y="118" key="Downloadable.Font.Dialog.Size" timestamp="1619453893267">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -247,10 +269,15 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1619447461654" />
-    <state x="1458" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1619437497976">
-      <screen x="1366" y="0" width="1920" height="1040" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1619458595787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1619458595787" />
+    <state x="65" y="64" width="1236" height="600" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1619462146387">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="1458" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1619437497976" />
+    <state x="65" y="64" width="1236" height="600" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1619462146387" />
     <state x="2061" y="373" key="psd.add.jar.dependency.panel.dimension" timestamp="1619434929815">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>

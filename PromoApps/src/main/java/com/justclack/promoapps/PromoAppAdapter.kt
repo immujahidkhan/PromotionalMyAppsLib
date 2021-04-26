@@ -28,7 +28,7 @@ class PromoAppAdapter(val context: Context, val list: PoJo) :
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         val data = list[position]
         holder.binding.appName.text = data.name
-        Constants.glideApp.loadImageFromPath(data.icon, holder.binding.thumbnail)
+        GlideApp(context).loadImageFromPath(data.icon, holder.binding.thumbnail)
         holder.binding.install.setOnClickListener {
             Constants.preventDoubleClick(holder.binding.install)
             try {
