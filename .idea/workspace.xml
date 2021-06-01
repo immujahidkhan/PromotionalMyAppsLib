@@ -11,16 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a096753-e90e-4f7f-8fb1-c3f8e8d1d1f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_amitshekhar_android_android_networking_1_0_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_amitshekhar_android_android_networking_1_0_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/PromoApps/PromotionalLibExample.PromoApps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/PromoApps/PromotionalLibExample.PromoApps.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/PromotionalLibExample.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/PromotionalLibExample.app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PoJo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PoJo.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PromoAppAdsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PromoAppAdsFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PromoApps/src/main/res/layout/fragment_promo_app_ads.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PromoApps/src/main/res/layout/fragment_promo_app_ads.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PromoApps/src/main/res/layout/row_item_app.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PromoApps/src/main/res/layout/row_item_app.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PromoApps/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PromoApps/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,29 +244,29 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="349" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1619455482647" />
-    <state width="1468" height="281" key="GridCell.Tab.0.bottom" timestamp="1622535845089">
+    <state width="1468" height="281" key="GridCell.Tab.0.bottom" timestamp="1622535906404">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state width="1322" height="298" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1621505008076" />
-    <state width="1468" height="281" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1622535845089" />
+    <state width="1468" height="281" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1622535906404" />
     <state width="1105" height="298" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619457672826" />
-    <state width="1468" height="281" key="GridCell.Tab.0.center" timestamp="1622535845089">
+    <state width="1468" height="281" key="GridCell.Tab.0.center" timestamp="1622535906404">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state width="1322" height="298" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1621505008076" />
-    <state width="1468" height="281" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1622535845089" />
+    <state width="1468" height="281" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1622535906404" />
     <state width="1105" height="298" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1619457672826" />
-    <state width="1468" height="281" key="GridCell.Tab.0.left" timestamp="1622535845088">
+    <state width="1468" height="281" key="GridCell.Tab.0.left" timestamp="1622535906404">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state width="1322" height="298" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1621505008076" />
-    <state width="1468" height="281" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1622535845088" />
+    <state width="1468" height="281" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1622535906404" />
     <state width="1105" height="298" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1619457672825" />
-    <state width="1468" height="281" key="GridCell.Tab.0.right" timestamp="1622535845089">
+    <state width="1468" height="281" key="GridCell.Tab.0.right" timestamp="1622535906404">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state width="1322" height="298" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1621505008076" />
-    <state width="1468" height="281" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1622535845089" />
+    <state width="1468" height="281" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1622535906404" />
     <state width="1105" height="298" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619457672826" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1619447461654">
       <screen x="0" y="0" width="1366" height="728" />
