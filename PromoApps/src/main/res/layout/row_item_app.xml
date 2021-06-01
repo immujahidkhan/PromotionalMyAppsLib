@@ -12,6 +12,7 @@
         android:layout_height="wrap_content">
 
         <TextView
+            style="@style/TextAppearance.AppCompat.Small"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
@@ -19,7 +20,8 @@
             android:layout_margin="@dimen/_2sdp"
             android:background="@color/grey"
             android:padding="@dimen/_5sdp"
-            android:text="@string/ad" />
+            android:text="@string/ad"
+            android:textSize="@dimen/_7ssp" />
 
         <LinearLayout
             android:layout_width="match_parent"
