@@ -21,6 +21,7 @@
             android:background="@color/grey"
             android:padding="@dimen/_5sdp"
             android:text="@string/ad"
+            android:textColor="@color/black"
             android:textSize="@dimen/_7ssp" />
 
         <LinearLayout
