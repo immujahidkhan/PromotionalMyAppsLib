@@ -7,6 +7,7 @@ import android.view.View
 class Constants {
     companion object {
         var list: PoJo = PoJo()
+        lateinit var packageName: String
         fun preventDoubleClick(view: View) {
             view.isEnabled = false
             Handler(Looper.getMainLooper()).postDelayed(Runnable {
