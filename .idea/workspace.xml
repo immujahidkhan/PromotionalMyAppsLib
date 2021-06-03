@@ -12,6 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3a096753-e90e-4f7f-8fb1-c3f8e8d1d1f2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/Constants.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/Constants.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PromoAppAdsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PromoAppAdsFragment.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
