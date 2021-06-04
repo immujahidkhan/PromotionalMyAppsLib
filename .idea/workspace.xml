@@ -6,15 +6,14 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="fata" />
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="ListAds:" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a096753-e90e-4f7f-8fb1-c3f8e8d1d1f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/SessionControllers.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/Constants.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/Constants.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PromoAppAdsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PromoAppAdsFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/SessionControllers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/SessionControllers.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -248,28 +247,28 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="349" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1619455482647" />
-    <state width="1043" height="178" key="GridCell.Tab.0.bottom" timestamp="1622746908453">
+    <state width="1063" height="372" key="GridCell.Tab.0.bottom" timestamp="1622786140074">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="298" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1621505008076" />
+    <state width="1063" height="372" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1622786140074" />
     <state width="1468" height="281" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1622535906404" />
     <state width="1043" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1622746908453" />
-    <state width="1043" height="178" key="GridCell.Tab.0.center" timestamp="1622746908452">
+    <state width="1063" height="372" key="GridCell.Tab.0.center" timestamp="1622786140073">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="298" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1621505008076" />
+    <state width="1063" height="372" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1622786140073" />
     <state width="1468" height="281" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1622535906404" />
     <state width="1043" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1622746908452" />
-    <state width="1043" height="178" key="GridCell.Tab.0.left" timestamp="1622746908452">
+    <state width="1063" height="372" key="GridCell.Tab.0.left" timestamp="1622786140072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="298" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1621505008076" />
+    <state width="1063" height="372" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1622786140072" />
     <state width="1468" height="281" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1622535906404" />
     <state width="1043" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1622746908452" />
-    <state width="1043" height="178" key="GridCell.Tab.0.right" timestamp="1622746908452">
+    <state width="1063" height="372" key="GridCell.Tab.0.right" timestamp="1622786140073">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="298" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1621505008076" />
+    <state width="1063" height="372" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1622786140073" />
     <state width="1468" height="281" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1622535906404" />
     <state width="1043" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1622746908452" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1619447461654">
@@ -307,13 +306,23 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PromoAppAdsFragment.kt</url>
-          <line>68</line>
+          <line>69</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PromoAppAdsFragment.kt</url>
-          <line>69</line>
+          <line>70</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PromoAppAdsFragment.kt</url>
+          <line>89</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PromoAppAdsFragment.kt</url>
+          <line>93</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
