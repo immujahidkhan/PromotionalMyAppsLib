@@ -13,7 +13,6 @@
     <list default="true" id="3a096753-e90e-4f7f-8fb1-c3f8e8d1d1f2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PromoAppAdsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PromoAppAdsFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/SessionControllers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/SessionControllers.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -306,22 +305,22 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PromoAppAdsFragment.kt</url>
-          <line>69</line>
+          <line>67</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PromoAppAdsFragment.kt</url>
-          <line>70</line>
+          <line>68</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PromoAppAdsFragment.kt</url>
-          <line>89</line>
+          <line>87</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PromoAppAdsFragment.kt</url>
-          <line>93</line>
+          <line>91</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
