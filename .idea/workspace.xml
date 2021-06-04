@@ -11,6 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a096753-e90e-4f7f-8fb1-c3f8e8d1d1f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/SessionControllers.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/Constants.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/Constants.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PromoAppAdsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PromoAppAdsFragment.kt" afterDir="false" />
@@ -44,8 +45,8 @@
         <option value="layoutResourceFile" />
         <option value="valueResourceFile" />
         <option value="Class" />
-        <option value="Kotlin Class" />
         <option value="resourceFile" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -62,7 +63,9 @@
     <option name="defaultAccountId" value="a2a429b3-1743-4f2b-b556-7bc889db1555" />
   </component>
   <component name="ProjectId" id="1rhhVNpI0lkFlzgZ7eKtFoqAZBo" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="foldersAlwaysOnTop" value="false" />
     <option name="showLibraryContents" value="true" />
@@ -304,12 +307,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PromoAppAdsFragment.kt</url>
-          <line>62</line>
+          <line>68</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/PromoApps/src/main/java/com/justclack/promoapps/PromoAppAdsFragment.kt</url>
-          <line>63</line>
+          <line>69</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
