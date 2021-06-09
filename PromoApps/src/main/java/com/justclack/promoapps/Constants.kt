@@ -15,8 +15,8 @@ class Constants {
             }, 500)
         }
 
-        var URL: String =
-            "https://gist.githubusercontent.com/immujahidkhan/cb5e22659ba353336072b50fb68705c0/raw/"
+        /*var URL: String =
+            "https://gist.githubusercontent.com/immujahidkhan/cb5e22659ba353336072b50fb68705c0/raw/"*/
 
     }
 }
