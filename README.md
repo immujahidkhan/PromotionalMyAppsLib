@@ -1,4 +1,3 @@
-# PromotionalMyAppsLib
 # More Apps Lib
 
 ```
